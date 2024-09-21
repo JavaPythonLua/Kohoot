@@ -1,4 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Sofadi+One&display=swap');
 html {
+  font-family:Sofadi One;
   height: 100%;
   width: 100%;
 }
